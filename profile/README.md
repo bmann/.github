@@ -6,6 +6,8 @@ UCAN is a trustless, secure, local-first, user-originated authorization and revo
 
 Please see the [specs](#specs) for more detail.
 
+The specs repo hosts the main [Discussions](https://github.com/ucan-wg/spec/discussions). There are regular, currently monthly, [Community Calls](https://github.com/ucan-wg/spec/discussions/categories/community-call) -- feel free to add yourself to the agenda / introduce yourself. You can [register for monthly calls](https://lu.ma/ucan) to get a reminder.
+
 # Directory
 
 ## Specs
@@ -29,7 +31,7 @@ Please see the [specs](#specs) for more detail.
 
 ## Presentations
 
-Note that while the below all describe UCAN at the time they were written, the spec has undergone updates. Please refer to the [latest specs](#spec) if you have questions.
+Note that while the below all describe UCAN at the time they were written, the spec has undergone updates. Please refer to the [latest specs](https://github.com/ucan-wg/spec) if you have questions.
 
 * [Coding Earth: Authorizing Users without a Backend (2020)](https://www.youtube.com/watch?v=qDLsUkaOjyQ)
 * [UCAN (do) secure key management in a browser (2021)](https://vimeo.com/manage/videos/484309705?embedded=true&source=video_title&owner=127263708)
